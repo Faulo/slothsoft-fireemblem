@@ -1,0 +1,25 @@
+{
+    "name": "slothsoft/fireemblem",
+    "description": "",
+    "keywords": [],
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Daniel Schulz",
+            "email": "info.slothsoft@gmail.com"
+        }
+    ],
+    "type": "library",
+    "require": {
+		"slothsoft/core" : "*",
+		
+		"php": ">=7.0"
+    },
+	"require-dev": {
+    },
+	"autoload": {
+        "psr-4": {
+            "Slothsoft\\FireEmblem\\": "php/"
+        }
+    }
+}
