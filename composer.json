@@ -14,7 +14,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"Slothsoft\\FireEmblem\\" : "php/"
+			"Slothsoft\\FireEmblem\\": "src/Slothsoft/FireEmblem/"
 		}
 	}
 }
