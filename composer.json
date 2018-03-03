@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Slothsoft\\FireEmblem\\": "src\/Slothsoft\/FireEmblem\/"
+            "Slothsoft\\FireEmblem\\": "src\/"
         }
     },
     "require-dev": {
