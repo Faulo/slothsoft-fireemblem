@@ -39,7 +39,7 @@ class Character
         
         $this->data['wiki-href'] = $uri;
         // echo $this->getName() . PHP_EOL; echo $uri . PHP_EOL;
-        if ($this->wikiXPath = Storage::loadExternalXPath($uri, TIME_MONTH)) {
+        if ($this->wikiXPath = Storage::loadExternalXPath($uri, Seconds::MONTH)) {
             $tableNode = $this->wikiXPath->evaluate($queries['table'])->item(0);
             if (! $tableNode) {
                 echo $uri . PHP_EOL;
