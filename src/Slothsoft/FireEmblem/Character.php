@@ -2,6 +2,7 @@
 namespace Slothsoft\FireEmblem;
 
 use Slothsoft\Core\Storage;
+use Slothsoft\Core\Calendar\Seconds;
 use DOMDocument;
 use Exception;
 
