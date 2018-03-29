@@ -16,7 +16,7 @@
     },
     "autoload": {
         "files": [
-            "src\/registerModule.php"
+            "C:\\Webserver\\workspace\\slothsoft-fireemblem\\src\\registerModule.php"
         ],
         "psr-0": {
             "Slothsoft\\FireEmblem\\": "src\/"
