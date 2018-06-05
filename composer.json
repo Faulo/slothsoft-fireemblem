@@ -26,9 +26,8 @@
         "phpunit/phpunit": "^6.5"
     },
     "keywords": [
-        "farah-app",
-        "farah-module",
-        "slothsoft"
+        "slothsoft",
+        "farah-module"
     ],
     "autoload-dev": {
         "classmap": [
